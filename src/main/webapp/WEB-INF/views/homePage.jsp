@@ -10,7 +10,7 @@
 Log in successful!!!
 <br><br>
 <h1>
-Welcome to home page!
+Welcome to home page !
 </h1>
 
 </body>
