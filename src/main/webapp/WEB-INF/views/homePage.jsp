@@ -13,5 +13,6 @@ Log in successful!!!
 Welcome to home page !
 </h1>
 
+Git setup done
 </body>
 </html>
